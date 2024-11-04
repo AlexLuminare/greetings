@@ -1,3 +1,3 @@
-module github.com/AlexLuminare/greetings
+module github.com/alexluminare/greetings
 
 go 1.23.0
